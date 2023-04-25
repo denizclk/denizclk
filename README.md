@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 
-<p align="center">
-  <img src="https://lol-skin.weblog.vc/img/wallpaper/tiles/Shaco_0.jpg?1681819488"/>
-</p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
